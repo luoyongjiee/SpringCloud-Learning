@@ -1,5 +1,8 @@
 #SpringCloud-Learning
 
+1. https://www.gitbook.com/book/eacdy/spring-cloud-book/details
+
+
 本项目内容为Spring Cloud教程程序样例。
 
 作者博客：http://blog.didispace.com
